@@ -14,3 +14,8 @@
 git config --global user.name "Ваше имя"
 git config --global user.email "email@examole.com"
 ```
+
+## 4. Создание нового репозтория
+Создать новую папку, в которой будет храниться проект. Открыть терминал, зайти в созданную папку и выполнить команду `git init`. Командная строка должна вернуть что-то вроде:
+> Initialized empty Git repository in C:/Users/Alin04ka/Desktop/git_seminar/.git/
+
